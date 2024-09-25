@@ -6,7 +6,7 @@
 ```bash
     git config --global user.nmae "이름"    # 사용자 이름 설정
     git config --global user.nmae "이메일"  # 사용자 이메일 (깃허브 계정)
-    git config --list                      # 현재 설정된 git 정보 확인
+    git config --list                       # 현재 설정된 git 정보 확인
 ```
 <br>
 
@@ -21,11 +21,11 @@
 
 ### 스테이징 및 커밋
 ```bash
-    git add <파일명>            # 특정 파일 스테이징
-    git add .                   # 현재 디렉토리의 모든 변경 사항을 스테이징
+    git add <파일명>             # 특정 파일 스테이징
+    git add .                    # 현재 디렉토리의 모든 변경 사항을 스테이징
     git commit -m "커밋 메세지"  # 스테이징된 파일 커밋
-    git diff                    # 변경 사항 확인 (스테이징되지 않은 파일)
-    git diff --staged           # 스테이지된 변경 사항 확인
+    git diff                     # 변경 사항 확인 (스테이징되지 않은 파일)
+    git diff --staged            # 스테이지된 변경 사항 확인
 ```
 <br>
 
