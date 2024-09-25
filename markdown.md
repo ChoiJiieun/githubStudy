@@ -117,7 +117,7 @@
 13. 배지 추가
 
 
-[배지 추가](htts://simpleicons.org)
+[배지 추가](https://simpleicons.org)
 
 [배지 추가2](https://shields.io/)
 
